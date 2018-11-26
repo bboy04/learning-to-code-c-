@@ -1,0 +1,12 @@
+//Fig. 2.1: fig02_01.cpp
+// Text-printing program.
+#iclude <iostream> // allows program to output data to the screen
+
+//function main begins program exucution
+int main()
+{
+  std::cout << "welcome to c++!\n"; // display message
+  
+  return 0; // indicate that program ended successfully
+  
+  } // end function main
